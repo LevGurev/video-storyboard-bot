@@ -6,7 +6,7 @@ import os
 import time
 import yt_dlp
 
-bot = telebot.TeleBot('8640229264:AAGshbBLeOixJ6UQl5QUWgKSWga1O-5Qr58')
+bot = telebot.TeleBot('ВСТАВЬ_СЮДА_СВОЙ_ТОКЕН')
 
 
 @bot.message_handler(commands=["start"])
